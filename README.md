@@ -1,6 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34454776/README.md)
-# Coupled anharmonic oscillators in four and five dimensions
-
 # Coupled anharmonic oscillators in four and five dimensions
 
 **Faster eigenvalue solvers for matrix mechanics, and the 4D and 5D systems the thesis left unexplored.**
